@@ -1,5 +1,3 @@
-
-
 luvut = []
 
 while True:
